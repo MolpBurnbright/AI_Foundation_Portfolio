@@ -1,4 +1,4 @@
 # AI_Foundation_Portfolio
-Goal: Analyze the 2024 family expenses and determine measures to reduce spending by at least 5%.
-Data: 2024 expenses from expense tracker.
-Analysis: Classification of expenses based on necessity.
+Goal: Create a model to predict trends of PSE stocks.
+Data: Historical data of prices, financial statements.
+Analysis: Linear regression of historical data.
